@@ -1,13 +1,13 @@
-#Sentiment Analysis using LSTM
+# Sentiment Analysis using LSTM
 
-##Overview
+## Overview
 
 This project implements a Sentiment Analysis system using a Long Short-Term Memory (LSTM) neural network.
 The model is designed to classify text data — such as product reviews, tweets, or comments — into sentiment categories (e.g., positive, negative, neutral).
 
 The project demonstrates how deep learning techniques, particularly Recurrent Neural Networks (RNNs) and LSTM cells, can effectively handle sequential data for natural language processing (NLP) tasks.
 
-##Features
+## Features
 Text preprocessing: tokenization, padding, and cleaning.
 
 LSTM-based deep learning model for sentiment classification.
@@ -18,7 +18,7 @@ Visualization of training/validation loss and accuracy.
 
 Easy to extend for other text classification tasks.
 
-##Technologies Used
+## Technologies Used
 Python 3.x
 
 TensorFlow or PyTorch (depending on the implementation)
@@ -32,7 +32,7 @@ Matplotlib / Seaborn (for visualization)
 NLTK / spaCy (for optional text preprocessing)
 
 
-##Dataset
+## Dataset
 A sample dataset (e.g., IMDB movie reviews or a custom dataset) is used.
 
 Data must include at least two columns: text and label.
