@@ -42,7 +42,7 @@ Note: If you wish to use a different dataset, ensure it is properly formatted an
 
 
 
-##Future Improvements
+## Future Improvements
 Fine-tuning hyperparameters for better accuracy.
 
 Implementing a bidirectional LSTM (Bi-LSTM) for improved performance.
